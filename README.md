@@ -18,3 +18,9 @@ Expected result:-
 
 PCs should reach the server even though they use private IPs.
 NAT translations will be visible in show ip nat translations.
+
+It provides three major benefits:-
+
+Address Conservation → Saves public IPv4 addresses by letting many hosts share one or a few global addresses.
+Security → Hides internal network details from outside users.
+Flexibility → Enables seamless communication between private networks and public networks.
