@@ -3,9 +3,9 @@ Network Address Translation (NAT) is a process used by routers to modify the sou
 
 Types of NAT include:-
 
-Static NAT – One-to-one mapping between a private and public IP.
-Dynamic NAT – Maps private IPs to a pool of public IPs dynamically.
-PAT (Port Address Translation / Overload) – Many private IPs share a single public IP using different port numbers.
+- Static NAT – One-to-one mapping between a private and public IP.
+- Dynamic NAT – Maps private IPs to a pool of public IPs dynamically.
+- PAT (Port Address Translation / Overload) – Many private IPs share a single public IP using different port numbers.
 
 By the end of this lab, you will be able to:-
 
