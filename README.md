@@ -9,18 +9,18 @@ Types of NAT include:-
 
 By the end of this lab, you will be able to:-
 
-Configure static NAT, dynamic NAT, and PAT (overload).
-Differentiate between inside local, inside global, and outside global addresses.
-Verify NAT translations with show ip nat translations.
-Test communication between private hosts and a server using NAT.
+- Configure static NAT, dynamic NAT, and PAT (overload).
+- Differentiate between inside local, inside global, and outside global addresses.
+- Verify NAT translations with show ip nat translations.
+- Test communication between private hosts and a server using NAT.
 
 Expected result:-
 
-PCs should reach the server even though they use private IPs.
-NAT translations will be visible in show ip nat translations.
+- PCs should reach the server even though they use private IPs.
+- NAT translations will be visible in show ip nat translations.
 
 It provides three major benefits:-
 
-Address Conservation → Saves public IPv4 addresses by letting many hosts share one or a few global addresses.
-Security → Hides internal network details from outside users.
-Flexibility → Enables seamless communication between private networks and public networks.
+- Address Conservation → Saves public IPv4 addresses by letting many hosts share one or a few global addresses.
+- Security → Hides internal network details from outside users.
+- - Flexibility → Enables seamless communication between private networks and public networks.
